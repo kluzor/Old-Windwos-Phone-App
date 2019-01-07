@@ -1,0 +1,320 @@
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\App.xbf
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.xr.xml
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\resources.pri
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\AppxManifest.xml
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.build.appxrecipe
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.i.cs
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.cs
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.i.cs
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.cs
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xaml
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xbf
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xaml
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml.intermediate
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles.intermediate
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles.intermediate
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles.intermediate
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Iwona\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\ProjectArchitectures.txt
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\App.xbf
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\MainPage.xbf
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.xr.xml
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.exe
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.pdb
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\resources.pri
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\AppxManifest.xml
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.build.appxrecipe
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.i.cs
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.cs
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.i.cs
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.cs
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xaml
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xaml
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xbf
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xbf
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.exe
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.pdb
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml.intermediate
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles.intermediate
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles.intermediate
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles.intermediate
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Kluzor\Desktop\apka\Aplikacja TCP\Aplikacja TCP\obj\Debug\ProjectArchitectures.txt
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\App.xbf
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\MainPage.xbf
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.xr.xml
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.exe
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.pdb
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\resources.pri
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\AppxManifest.xml
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.build.appxrecipe
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.i.cs
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.cs
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.i.cs
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.cs
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xaml
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xaml
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xbf
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xbf
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.exe
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.pdb
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml.intermediate
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles.intermediate
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles.intermediate
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles.intermediate
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Kluzor\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\ProjectArchitectures.txt
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\App.xbf
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.xr.xml
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\resources.pri
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\AppxManifest.xml
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.build.appxrecipe
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.i.cs
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.cs
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.i.cs
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.cs
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xaml
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xaml
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xbf
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml.intermediate
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles.intermediate
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles.intermediate
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles.intermediate
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Iwona\Desktop\apka — kopia\Aplikacja TCP\Aplikacja TCP\obj\Debug\ProjectArchitectures.txt
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\App.xbf
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.xr.xml
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\resources.pri
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\AppxManifest.xml
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.build.appxrecipe
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.i.cs
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.cs
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.i.cs
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.cs
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xaml
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xbf
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xaml
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml.intermediate
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles.intermediate
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles.intermediate
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles.intermediate
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Iwona\Desktop\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\ProjectArchitectures.txt
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\App.xbf
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.xr.xml
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\resources.pri
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\AppxManifest.xml
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.build.appxrecipe
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.i.cs
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.cs
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.i.cs
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.cs
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xaml
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xbf
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xaml
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml.intermediate
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles.intermediate
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles.intermediate
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles.intermediate
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Iwona\Desktop\15.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\ProjectArchitectures.txt
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\App.xbf
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.xr.xml
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\resources.pri
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\AppxManifest.xml
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.build.appxrecipe
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.i.cs
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.cs
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.i.cs
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.cs
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xaml
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xbf
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xaml
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml.intermediate
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles.intermediate
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles.intermediate
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles.intermediate
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Iwona\Desktop\16.12\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\ProjectArchitectures.txt
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\App.xbf
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.xr.xml
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\resources.pri
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\AppxManifest.xml
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.build.appxrecipe
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.i.cs
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.cs
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.i.cs
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.cs
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xaml
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xaml
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xbf
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml.intermediate
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles.intermediate
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles.intermediate
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles.intermediate
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Iwona\Desktop\05.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\ProjectArchitectures.txt
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\App.xbf
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\MainPage.xbf
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.xr.xml
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.exe
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.pdb
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\resources.pri
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\AppxManifest.xml
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.build.appxrecipe
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.i.cs
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.cs
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.i.cs
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.cs
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlTypeInfo.g.cs
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xaml
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xaml
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xbf
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xbf
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlSaveStateFile.xml
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.exe
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.pdb
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml.intermediate
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles.intermediate
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles.intermediate
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles.intermediate
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt.intermediate
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\18.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\ProjectArchitectures.txt
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\App.xbf
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.xr.xml
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\resources.pri
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\AppxManifest.xml
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\bin\Debug\Aplikacja TCP.build.appxrecipe
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.i.cs
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.g.cs
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.i.cs
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.g.cs
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xaml
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xaml
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\App.xbf
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MainPage.xbf
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.exe
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\Aplikacja TCP.pdb
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\priconfig.xml.intermediate
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\layout.resfiles.intermediate
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\resources.resfiles.intermediate
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\pri.resfiles.intermediate
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Iwona\Desktop\Inżynier 26.01.2017\Aplikacja TCP\Aplikacja TCP\Aplikacja TCP\obj\Debug\ProjectArchitectures.txt
